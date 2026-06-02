@@ -1,4 +1,5 @@
 # A requirements.txt file records the Python packages your project depends on.
+# It should never be included in a .gitignore!
 pandas==2.3.1
 numpy==2.2.0
 matplotlib==3.10.0
