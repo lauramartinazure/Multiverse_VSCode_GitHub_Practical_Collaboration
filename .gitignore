@@ -12,3 +12,6 @@ venv/
 
 # VSCode files
 .vscode/
+
+# file to ignore
+file_to_ignore.txt
