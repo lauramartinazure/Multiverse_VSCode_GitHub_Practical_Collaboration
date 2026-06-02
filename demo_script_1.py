@@ -7,7 +7,8 @@ with open('data.csv', 'r') as file:
         print(row)
 
 
-# Intentional conflict to demonstrate GitHub collaboration. This line will be changed in the other branch.
+df = pd.read_csv('data.csv')
+print(df)
 
 # run python demo_script_1.py in the terminal to execute the 
 # script and see the output of the CSV file.
