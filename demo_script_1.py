@@ -7,5 +7,8 @@ with open('data.csv', 'r') as file:
         print(row)
 
 
+df = pd.read_csv('data.csv')
+print(df)
+
 # run python demo_script_1.py in the terminal to execute the 
 # script and see the output of the CSV file.
