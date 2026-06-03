@@ -34,3 +34,6 @@ Repo for Multiverse session on using VSCode and GitHub for practical team collab
 * Successful merges
 * Why you should never commit to main: intentionally creating a conflict
 * 'Cherry picking' and dealing with conflicts in code
+
+
+# Making a menial change in main to create a conflict and demonstrate cherry picking
