@@ -24,6 +24,7 @@ Repo for Multiverse session on using VSCode and GitHub for practical team collab
 * 'Pulling'
 * Creating a branch
 * Making a change to a single file or multiple
+* Staging commits
 * Committing to a branch and commit messages
 * 'Pushing'
 * Viewing branches in the GUI and code editor
